@@ -10,7 +10,7 @@ it also preserves headers, methods, etc if directly responding with data.
 # l_list.json structure
 ```ts
 {
-    [       // list of entries
+    "list": [       // list of entries
         {   // an entry
             "type:": "pipe",        // is either "pipe" or "redir" exactly; is string obviously
             "pseudo_path": "goog",  // is string; the part that comes after /l/ in https://api.hman.io/l/
