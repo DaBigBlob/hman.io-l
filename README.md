@@ -59,3 +59,4 @@ cd hman.io-l
 ```
 3. make a pull request
 
+> ADDITIONAL TECHNICAL NOTE: the redirects/pipes take effect 5mins after this repository is updated. this is to keep down costs.
