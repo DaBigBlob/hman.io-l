@@ -12,7 +12,7 @@ it also preserves headers, methods, etc if directly responding with data.
 {
     "list": [       // list of entries
         {   // an entry
-            "type:": "pipe",        // is either "pipe" or "redir" exactly; is string obviously
+            "type:": "redir",       // is either "pipe" or "redir" exactly; is string obviously
             "pseudo_path": "goog",  // is string; the part that comes after /l/ in https://a.hman.io/l/
             "link": "https://www.google.com" // is string; the actual url to redirect to
         },
