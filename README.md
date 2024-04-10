@@ -1,5 +1,5 @@
 # api.hman.io/l
-this is a very simple and fast link shortner (for my family, friends, projects maintainers, and reasonable people).   
+this is a very fast and fancy "link shortner" (for my family, friends, projects maintainers, and reasonable people).   
 it directly responds with the data or redirects deepending on `type` [see below].      
 it also preserves headers, methods, etc if directly responding with data.   
 
