@@ -1,11 +1,11 @@
-# api.hman.io/l
+# api.hman.io/l or a.hman.io/l
 this is a very fast and fancy "link shortner" (for my family, friends, projects maintainers, and reasonable people).   
 it directly responds with the data or redirects deepending on `type` [see below].      
 it also preserves headers, methods, etc if directly responding with data.   
 
 # examples
-- "https://api.hman.io/l/ma6s" responds with the data from "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"   
-- "https://api.hman.io/l/favsong" redirects to "https://www.youtube.com/watch?v=sVz3_9g4LlQ" (my favourite song)
+- "https://a.hman.io/l/ma6s" responds with the data from "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"   
+- "https://a.hman.io/l/favsong" redirects to "https://www.youtube.com/watch?v=sVz3_9g4LlQ" (my favourite song)
 
 # l_list.json structure
 ```ts
@@ -13,7 +13,7 @@ it also preserves headers, methods, etc if directly responding with data.
     "list": [       // list of entries
         {   // an entry
             "type:": "pipe",        // is either "pipe" or "redir" exactly; is string obviously
-            "pseudo_path": "goog",  // is string; the part that comes after /l/ in https://api.hman.io/l/
+            "pseudo_path": "goog",  // is string; the part that comes after /l/ in https://a.hman.io/l/
             "link": "https://www.google.com" // is string; the actual url to redirect to
         },
         ... // more entries
