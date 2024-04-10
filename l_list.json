@@ -1,11 +1,11 @@
 {
     "list": [
         {
-            "pseudo_path": "msarm64store",
+            "pseudo_path": "ma6s",
             "link": "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"
         },
         {
-            "pseudo_path": "ytpish",
+            "pseudo_path": "ypis",
             "link": "https://raw.githubusercontent.com/yt-dlp-archives/plugins/main/install_plugin"
         }
     ]
