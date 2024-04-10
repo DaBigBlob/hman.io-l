@@ -1,0 +1,6 @@
+{
+    "list": [
+        {"msarm64store": "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"},
+        {"ytpish": "https://raw.githubusercontent.com/yt-dlp-archives/plugins/main/install_plugin"}
+    ]
+}
