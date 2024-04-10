@@ -1,17 +1,17 @@
 {
     "list": [
         {
-            "type:": "pipe",
+            "type": "pipe",
             "pseudo_path": "ma6s",
             "link": "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"
         },
         {
-            "type:": "pipe",
+            "type": "pipe",
             "pseudo_path": "ypis",
             "link": "https://raw.githubusercontent.com/yt-dlp-archives/plugins/main/install_plugin"
         },
         {
-            "type:": "redir",
+            "type": "redir",
             "pseudo_path": "favsong",
             "link": "https://www.youtube.com/watch?v=sVz3_9g4LlQ"
         }
