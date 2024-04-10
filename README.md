@@ -4,8 +4,8 @@ it directly responds with the data or redirects deepending on `type` [see below]
 it also preserves headers, methods, etc if directly responding with data.   
 
 # examples
-"https://api.hman.io/l/ma6s" responds with the data from "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"
-"https://api.hman.io/l/favsong" redirects to "https://www.youtube.com/watch?v=sVz3_9g4LlQ" (my favourite song)
+- "https://api.hman.io/l/ma6s" responds with the data from "https://raw.githubusercontent.com/DaBigBlob/ms-store-arm64/main/allowARMv2.ps1"   
+- "https://api.hman.io/l/favsong" redirects to "https://www.youtube.com/watch?v=sVz3_9g4LlQ" (my favourite song)
 
 # l_list.json structure
 ```ts
