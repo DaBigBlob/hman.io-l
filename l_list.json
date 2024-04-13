@@ -14,6 +14,11 @@
             "type": "redir",
             "pseudo_path": "favsong",
             "link": "https://www.youtube.com/watch?v=sVz3_9g4LlQ"
+        },
+        {
+            "type": "pipe",
+            "pseudo_path": "ypip",
+            "link": "https://raw.githubusercontent.com/yt-dlp-archives/plugins/main/utils/install_plugin.py"
         }
     ]
 }
