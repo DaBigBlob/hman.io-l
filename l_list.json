@@ -16,7 +16,7 @@
             "link": "https://raw.githubusercontent.com/yt-dlp-archives/plugins/main/utils/install_plugin.py"
         },
         {
-            "type": "redir",
+            "type": "pipe",
             "pseudo_path": "nixc",
             "link": "https://raw.githubusercontent.com/DaBigBlob/nixosconfig/refs/heads/main/archive/pullnixos.sh"
         }
