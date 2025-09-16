@@ -21,13 +21,8 @@
             "link": "https://raw.githubusercontent.com/DaBigBlob/nixosconfig/refs/heads/main/archive/pullnixos.sh"
         },
         {
-            "type": "pipe",
-            "pseudo_path": "kdlp",
-            "link": "https://fall2025-uml.kdlp.underground.software"
-        },
-        {
             "type": "redir",
-            "pseudo_path": "kdlpr",
+            "pseudo_path": "kdlp",
             "link": "https://fall2025-uml.kdlp.underground.software"
         }
     ]
