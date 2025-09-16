@@ -19,6 +19,11 @@
             "type": "pipe",
             "pseudo_path": "nixc",
             "link": "https://raw.githubusercontent.com/DaBigBlob/nixosconfig/refs/heads/main/archive/pullnixos.sh"
+        },
+        {
+            "type": "redir",
+            "pseudo_path": "kdlp",
+            "link": "https://fall2025-uml.kdlp.underground.software"
         }
     ]
 }
